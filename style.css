@@ -1,0 +1,127 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.myclass{
+    background-color: rgb(143, 139, 139);
+    
+}
+.myclass ul li{
+
+    font-weight: bold;
+}
+
+.demo_container{
+    background-color: gray;
+    border-radius: 50px;
+}
+
+
+.desc{
+    padding-top: 30px ;
+    padding-bottom: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.img_border{
+    border-radius: 20px;
+}
+.desc_detail{
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.heading{
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: 25px;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.detail{
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: 20px;
+}
+
+/*==============================================================================*/
+
+.demo_about
+{
+    background-color: rgb(104, 206, 247);
+    border-radius: 50px;
+}
+
+.heading_about
+{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 20px;
+    margin-top: 5px;
+}
+
+/*==============================================================================*/
+
+.demo_techno
+{
+    background-color: rgb(169, 248, 137);
+    border-radius: 50px;
+    
+
+}
+
+.info_tech
+{
+    background-color: lightcoral;
+    text-align: center;
+    padding-left:20px;
+    padding-right: 20px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 7%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    word-wrap: normal;
+}
+
+/*==============================================================================*/
+
+.demo_contact
+{
+    background-color: lightcoral;
+    border-radius: 50px;
+}
+
+.heading_contact
+{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 20px;
+    margin-top: 5px;
+}
+
+
+.social_link img{
+    margin-left: 20px;
+}
+
+
+/*=========================Hover Effects=======================*/
+
+.info_tech :hover {
+    color: white;
+    font-size: 30px;
+    font-style: oblique;
+    
+}
